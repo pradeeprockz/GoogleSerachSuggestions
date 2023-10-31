@@ -1,0 +1,25 @@
+/* Write your CSS here */
+img {
+  width: 12px;
+  height: 12px;
+}
+.user-card-container {
+  display: flex;
+  align-items: center;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+.user-details-container {
+  margin-left: 12px;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-container {
+  list-style-type: none;
+  padding: 0;
+}
